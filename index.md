@@ -9,7 +9,7 @@ Other 2 or 3 sentences max to explain who, what and why.
 
 A sentence to list few of its most useful features and introduce the following screenshot.
 
-<img src="/assets/img/screen-patient_registration.jpg" alt="screenshot" width="70%"/>
+<img src="{{ "/assets/img/screen-patient_registration.jpg" | relative_url }}" alt="screenshot" width="70%"/>
 
 Maybe another sentence to introduce a screenshot of the upcoming web-based version, 
 and a link to its demo site.
